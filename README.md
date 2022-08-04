@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snpsujon" alt="snpsujon" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/snpsujon" target="blank"><img src="https://img.shields.io/twitter/follow/snpsujon?logo=twitter&style=for-the-badge" alt="snpsujon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SnpSujon" target="blank"><img src="https://img.shields.io/twitter/follow/SnpSujon?logo=twitter&style=for-the-badge" alt="snpsujon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
