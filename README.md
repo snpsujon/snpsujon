@@ -76,6 +76,12 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <hr>
 </div>
+    <p align="center" >  
+  <a href="https://github.com/snpsujon"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=snpsujon&&show_icons=true&theme=radical&count_private=true"/>
+  </a>
+  </p>
+    
 </div>
     </center>
 </body>
