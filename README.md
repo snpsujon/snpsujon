@@ -45,7 +45,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpsujon&layout=Demo&count_private=true" align="right">
   </div>
 </div>
 <div>
@@ -54,8 +54,13 @@
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br>
  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/Github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
  <br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+I am also very good at WordPress Customization. And I am good at writing Guides also. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -63,10 +68,10 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
+<p align="center">Here some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://facebook.com/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://facebook.com/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/snpsujon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/SNPSUJON-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <br>
 <div>
@@ -81,6 +86,8 @@ most used s-s-sociaw things >~< xoxox</p>
 <img  src="https://github-readme-stats.vercel.app/api?username=snpsujon&&show_icons=true&theme=radical&count_private=true"/>
   </a>
   </p>
+    
+    
     
 </div>
     </center>
