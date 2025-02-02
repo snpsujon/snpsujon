@@ -3,9 +3,17 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
     <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=snpsujon&color=green"/>
+    <img src="https://komarev.com/ghpvc/?username=snpsujon&color=green"/> <a href="https://github.com/snpsujon?tab=followers">
+            <img src="https://img.shields.io/github/followers/snpsujon?label=Follow&style=social" alt="GitHub Followers">
+        </a>
     </div>
-    <hr>
+    <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+SNP+Sujon,;Software+Engineer,;Full+Stack+Developer,;Embedded+Software+Engineer,;Software+Engineer+(.NET+%26+SQL+Server),;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
+</a>
+
+</p>
+<hr>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://laby.net/@Sorakali" >
@@ -45,7 +53,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2>
  <br>
 <p>
   <div align="center">
@@ -91,6 +99,8 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <hr>
 </div>
+  <h2 align="center">           <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
+
     <p align="center" >  
   <a href="https://github.com/snpsujon"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=snpsujon&&show_icons=true&theme=radical&count_private=true"/>
