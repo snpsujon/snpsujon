@@ -101,7 +101,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
   <h2 align="center">           <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 
-    <p align="center" >  
+  <p align="center" >  
   <a href="https://github.com/snpsujon"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=snpsujon&&show_icons=true&theme=radical&count_private=true"/>
   </a>
