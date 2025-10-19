@@ -79,8 +79,8 @@
    <img alt="npm" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
  <br><br>
 💻 Backend Developer | .NET Core | Angular | Docker | SQL <br>
-🔧 Love solving real-world problems with clean code and automation
-🌐 Building smart, scalable, and secure software solutions
+🔧 Love solving real-world problems with clean code and automation <br>
+🌐 Building smart, scalable, and secure software solutions <br>
 ☁️ Exploring AI, GPU servers & self-hosted tech
 </p>
 <br>
