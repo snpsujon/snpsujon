@@ -5,7 +5,7 @@
     <div align="center">
     <img src="https://komarev.com/ghpvc/?username=snpsujon&color=green"/> <a href="https://github.com/snpsujon?tab=followers">
             <img src="https://img.shields.io/github/followers/snpsujon?label=Follow&style=social" alt="GitHub Followers">
-        </a>
+        </a> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1QC5WV2Am8OZzD0f1xHWHg"> <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsnpsujon.me&up_message=live">
     </div>
     <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,9 +15,9 @@
 </p>
 <hr>
 <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@snpsujon" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+<a href="https://discord.com/users/545928013938950164" >
+  <!-- <a href="https://laby.net/@snpsujon" > -->
+   <img src="https://lanyard.cnrad.dev/api/545928013938950164?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
     <br>
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
@@ -28,7 +28,7 @@
   
 </div>
     <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+<img src="https://i.imgur.com/jx17oHT.gif">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
@@ -107,6 +107,15 @@ most used s-s-sociaw things >~< xoxox</p>
   <p align="center" >  
   <a href="https://github.com/snpsujon"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=snpsujon&&show_icons=true&theme=radical&count_private=true"/>
+  </a>
+  </p>
+
+<hr>
+ <h2 align="center">           <img src="https://i.pinimg.com/originals/be/b3/14/beb314947d71b49083a4ca1b031ab6dd.gif" width="35"><b> Github Trophy </b></h2>
+
+  <p align="center" >  
+  <a href="https://github.com/snpsujon"> 
+<img  src="https://github-profile-trophy.vercel.app/?username=snpsujon&rank=-C,-B,-?&row=2&column=3&theme=dracula&no-frame=true"/>
   </a>
   </p>
     
