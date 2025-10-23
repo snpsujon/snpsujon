@@ -92,7 +92,7 @@
 <p align="center">Here some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://facebook.com/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/snpsujon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/SNPSUJON-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"><a href="https://twitch.tv/snpsujon" target="_blank"><img src="https://img.shields.io/badge/snpsujon%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://facebook.com/snpsuj0n" target="_blank"><img src="https://img.shields.io/badge/snpsujon-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/snpsujon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/SNPSUJON-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <br>
 <div>
